@@ -1,1 +1,1 @@
-# mechanizm_reakcji_dyfuzji
+# Mechanizm reakcji dyfuzji
